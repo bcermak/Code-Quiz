@@ -1,0 +1,23 @@
+.navbar-light {
+    text-align: left;
+    padding-top: 10px;
+}
+
+#timer {
+    text-align: right;
+    
+}
+
+.container {
+   padding: 0;
+   margin: 0;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   width: 100vw;
+}
+#header-text {
+    margin-top: 50px;
+    
+}
